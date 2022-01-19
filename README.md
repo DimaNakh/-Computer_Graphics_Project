@@ -14,6 +14,6 @@ https://editor.p5js.org/dimanakhleh/sketches/rWbVSSYP5
 Week 3:  
 took a day to learn more about p5.js JavaScript library,and a day to add a little more spice into the simulation,
 https://editor.p5js.org/dimanakhleh/sketches/UbLdCJ112
-Week 4:  
+Week 4:   
 took about 2 days adding and upgradung the simulation, a collision with the ground and between the particles has been added, so that they do not just phase through eachother
 https://editor.p5js.org/dimanakhleh/sketches/bJez6Na_8
