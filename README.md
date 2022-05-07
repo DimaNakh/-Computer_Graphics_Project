@@ -6,7 +6,7 @@ Spent 4-5 hours learning the basics of Rhinoceros software and built a basic mod
 Week 2:  
 Spent 4-5 hours learning the basics of Rhinoceros's tool, Grasshoper.  
 Week 2:  
-due to technical difficulties in downloading and starting the project, a new project was chosen
+due to technical difficulties in downloading and starting the project,a new project was chosen
 on soft body simulation
 ,starting of an assignment of creating a simulation of a spring system, studied about a day on spring forces, 
 and I have created a small simulation 
@@ -21,4 +21,7 @@ Week 5-6:
 week 5 was slow due to other obligations, in week 6 I added the ability to adding masses, and conntecting them by spring , also deleting springs and masses as wanted .thus providing the ability to create any mass-spring system
 https://editor.p5js.org/dimanakhleh/sketches/nTRbK7sLC  
 week 7:  
-  
+I had to learn more on how to make shapes in p5.js so i spent around a day trying to implement it on my code.  
+week 8:  
+I changed alot in my code to make a short simulation,I've implemented a class for the rectangle, added in collision detection which repositions particles and also modifies the gravity force for an incline when it comes into contact with it. it took me 8 -10 hours doing it within 2-3 days 
+https://editor.p5js.org/dimanakhleh/sketches/GbJ3sZOhZ
