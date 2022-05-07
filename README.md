@@ -21,3 +21,4 @@ Week 5-6:
 week 5 was slow due to other obligations, in week 6 I added the ability to adding masses, and conntecting them by spring , also deleting springs and masses as wanted .thus providing the ability to create any mass-spring system
 https://editor.p5js.org/dimanakhleh/sketches/nTRbK7sLC  
   week 7:  
+  
